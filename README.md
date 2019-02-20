@@ -1,8 +1,5 @@
-Compile Time Encrypted String
-
-A small header file which includes an object which allows the 
-compile time encryption and run time decryption of strings.
-Encryption/decryption schemes are supplied by the user.
+A small utility which allows compile time encryption and run time decryption of strings.
+Encryption/Decryption schemes are supplied by the user.
 
 example usage:
 ```c
